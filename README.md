@@ -30,4 +30,9 @@ I hope to develop every beautiful things.✨
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>    
 
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namjunkim12&show_icons=true&theme=default)
+
    
