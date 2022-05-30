@@ -1,5 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!&fontSize=90&desc=%20Namjun's%20Github%20profile&descAlign=60&descAlignY=65)
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNamjunKim12&count_bg=%23187CF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=viewed&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **NamjunKim12/NamjunKim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
