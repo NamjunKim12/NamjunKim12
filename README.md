@@ -1,7 +1,9 @@
+<div align='center'>
+
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20Namjun&fontSize=90)
 
-<div align='center'>
 <p align='center'>
 누구나 함께하고 싶은 개발자를 꿈꿉니다.
 </p>
