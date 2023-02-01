@@ -1,5 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hi,%20I'm%20Namjun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20Namjun&fontSize=90)
+
+<div align='center'>
 <p align='center'>
 누구나 함께하고 싶은 개발자를 꿈꿉니다.
 </p>
@@ -24,6 +26,8 @@
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
 </p>
 
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wrasf175)](https://solved.ac/wrasf175)
 
+</div>
 
 
