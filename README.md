@@ -2,13 +2,13 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20Namjun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FFFFFF&height=250&section=header&text=Hi,%20I'm%20Namjun&fontSize=90)
 
 <p align='center'>
 누구나 함께하고 싶은 개발자를 꿈꿉니다.
 </p>
 
-<h3 align="center">👨🏻‍💻 About Me </h3>
+<h3 align="center">👨🏻‍💻 About Me 👨🏻‍💻</h3>
 <p align='center'>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/kim-namjun-a655181ab/" target="_blank"> <img src="https://img.shields.io/badge/Adrian Kim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>  
 </p>
