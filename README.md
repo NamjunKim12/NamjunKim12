@@ -23,7 +23,7 @@
    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black"/>  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
 </p>
 <p align='center'>
- <img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=black"/> <img src="https://img.shields.io/badge/reactQuery-FF4154?style=flat-square&logo=reactQuery&logoColor=white"/> <img src="https://img.shields.io/badge/recoil-A100FF?style=flat-square&logo=A100FF&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=black"/> <img src="https://img.shields.io/badge/tanstack%20query-FF4154?style=flat-square&logo=reactQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-A100FF?style=flat-square&logo=A100FF&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
 </p>
