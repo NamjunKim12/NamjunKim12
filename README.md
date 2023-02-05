@@ -10,7 +10,7 @@
 
 <h3 align="center">👨🏻‍💻 About Me 👨🏻‍💻</h3>
 <p align='center'>
-      <a href="" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
+      <a href="https://www.notion.so/adrian96/47637de391374f78a10f6086a03808c3" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
    <a href="https://velog.io/@arsshavin" target="_blank"> <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  
    <a href="https://www.linkedin.com/in/kim-namjun-a655181ab/" target="_blank"> <img src="https://img.shields.io/badge/Adrian Kim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>  
    <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img src="https://img.shields.io/badge/wrasf175@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
