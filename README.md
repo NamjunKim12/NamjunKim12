@@ -7,9 +7,11 @@
 <p align='center'>
      <a href="https://www.notion.so/adrian96/47637de391374f78a10f6086a03808c3" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
    <a href="https://www.linkedin.com/in/kim-namjun-a655181ab/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+</p>
+<p align='center'>
    <a href="https://velog.io/@arsshavin" target="_blank"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  
 </p>
-
+     
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align='center'>
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
