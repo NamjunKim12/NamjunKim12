@@ -23,6 +23,7 @@
      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
 </p>
 <p align='center'>
+     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> 
      <img src="https://img.shields.io/badge/tanstack%20query-FF4154?style=flat-square&logo=reactQuery&logoColor=white"/> 
      <img src="https://img.shields.io/badge/Recoil-A100FF?style=flat-square&logo=A100FF&logoColor=white"/>       
 </p>
