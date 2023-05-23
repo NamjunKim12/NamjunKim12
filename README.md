@@ -8,7 +8,7 @@
      
 <h3 align="center">✉️ Contact Me ✉️</h3>
 <p align='center'>
-          wrasf175@naver.com          
+          njkim116@gmail.com          
 </p>
      
 <h3 align="center">🔗 Link 🔗</h3>
