@@ -1,7 +1,6 @@
 
 
 <div align='center'>
-<h2 align="center">김남준입니다.</h2>
 <p align='center'>
      항상 부족함을 느끼고, 꾸준한 학습을 통해 성장하는 것을 즐깁니다.
 </p>
@@ -11,19 +10,6 @@
           njkim116@gmail.com          
 </p>
      
-<h3 align="center">🔗 Link 🔗</h3>
-<p align='center'>
-     <a href='https://www.notion.so/adrian96/47637de391374f78a10f6086a03808c3'>📄 노션 CV 바로가기</a>
-</p>
-<p align='center'>
-     <a href='https://velog.io/@arsshavin'>👨🏻‍💻 벨로그 바로가기</a>
-</p>
-<p align='center'>
-     <a href='https://github.com/NamjunKim12/Today-I-learned'>✏️ TIL(학습기록) 바로가기</a>
-</p>
-
-
-
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align='center'>
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
