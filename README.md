@@ -1,10 +1,6 @@
 
 
 <div align='center'>
-<p align='center'>
-     항상 부족함을 느끼고, 꾸준한 학습을 통해 성장하는 것을 즐깁니다.
-</p>
-     
 <h3 align="center">✉️ Contact Me ✉️</h3>
 <p align='center'>
           njkim116@gmail.com          
